@@ -80,6 +80,7 @@ graph of function: (to be inserted)
 graph of result:
 
 <img width="1421" height="921" alt="Problem1 result" src="https://github.com/user-attachments/assets/d106a06f-1318-4ad0-9228-2e7ce1e912bd" />
+<img width="694" height="521" alt="image" src="https://github.com/user-attachments/assets/963d3cfa-83b4-48ff-a1e8-2788455cd003" />
 
 ### Problem 2
 
@@ -90,6 +91,8 @@ graph of function: (to be inserted)
 graph of result:
 
 <img width="1423" height="924" alt="Problem2 result" src="https://github.com/user-attachments/assets/98c5e1d4-bd01-4d14-8f26-43ca85d8028b" />
+<img width="694" height="522" alt="image" src="https://github.com/user-attachments/assets/0061c172-3612-462e-b5f2-e242f1ba65f0" />
+
 
 ### Problem 3
 
@@ -100,6 +103,7 @@ graph of function: (to be inserted)
 graph of result:
 
 <img width="1420" height="923" alt="Problem3 result" src="https://github.com/user-attachments/assets/03705e1b-43c1-4427-9a25-97c2a955c6f6" />
+<img width="696" height="521" alt="image" src="https://github.com/user-attachments/assets/d4263f41-f9cf-4bbe-808c-c92ac46f1340" />
 
 ### Problem 4 (Schwefel)
 
@@ -110,6 +114,8 @@ graph of function: (to be inserted)
 graph of result:
 
 <img width="1422" height="922" alt="Problem4 result" src="https://github.com/user-attachments/assets/f16b31af-f1df-44bb-91a4-bd6a4a87b005" />
+<img width="693" height="523" alt="image" src="https://github.com/user-attachments/assets/2d914ed4-46ed-4351-a3da-57447f06a50f" />
+
 
 ### Problem 5 (Griewank)
 
@@ -120,6 +126,8 @@ graph of function: (to be inserted)
 graph of result:
 
 <img width="1418" height="920" alt="Problem5 result" src="https://github.com/user-attachments/assets/d4806b86-cbb6-4e01-849e-280dd67e1df0" />
+<img width="695" height="521" alt="image" src="https://github.com/user-attachments/assets/91fef290-d5a9-457d-bc3b-58a932c2ab27" />
+
 
 ### Problem 6 (Ackley)
 
@@ -130,3 +138,5 @@ graph of function: (to be inserted)
 graph of result:
 
 <img width="1421" height="923" alt="Problem6 result" src="https://github.com/user-attachments/assets/461549cb-5f87-4a93-afd8-8f350f2bc586" />
+<img width="694" height="523" alt="image" src="https://github.com/user-attachments/assets/6fb31667-c4dc-438e-8b9e-f6c04414e671" />
+
