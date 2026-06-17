@@ -90,7 +90,7 @@ graph of function: (to be inserted)
 
 graph of result:
 
-<img width="1423" height="924" alt="Problem2 result" src="https://github.com/user-attachments/assets/98c5e1d4-bd01-4d14-8f26-43ca85d8028b" />
+<img width="1421" height="923" alt="Problem6 result" src="https://github.com/user-attachments/assets/461549cb-5f87-4a93-afd8-8f350f2bc586" />
 <img width="694" height="522" alt="image" src="https://github.com/user-attachments/assets/0061c172-3612-462e-b5f2-e242f1ba65f0" />
 
 
@@ -137,6 +137,6 @@ graph of function: (to be inserted)
 
 graph of result:
 
-<img width="1421" height="923" alt="Problem6 result" src="https://github.com/user-attachments/assets/461549cb-5f87-4a93-afd8-8f350f2bc586" />
+<img width="1423" height="924" alt="Problem2 result" src="https://github.com/user-attachments/assets/98c5e1d4-bd01-4d14-8f26-43ca85d8028b" />
 <img width="694" height="523" alt="image" src="https://github.com/user-attachments/assets/6fb31667-c4dc-438e-8b9e-f6c04414e671" />
 
